@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/oxabz/portfolio/issues"
   },
-  "homepage": "https://github.com/oxabz/portfolio#readme"
+  "homepage": "https://github.com/oxabz/portfolio#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "react": "^17.0.1",
+    "sass": "^1.27.0"
+  }
 }
